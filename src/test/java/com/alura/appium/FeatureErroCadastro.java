@@ -9,11 +9,11 @@ import org.junit.Test;
 import java.net.MalformedURLException;
 
 
-public class FeatureCadastro
+public class FeatureErroCadastro
 {
 
     @Test
-    public void WrongPasswordVerification() throws MalformedURLException
+    public void FeatureErroCadastro() throws MalformedURLException
     {
         AppiumDriverConfig driver = new AppiumDriverConfig();
 
