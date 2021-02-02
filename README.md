@@ -12,3 +12,12 @@ Modulo 2:
 3. Como buscar elementos dentro da tela por id
 4. Utilizando a ferramenta do UI Automator Viewer
 5. Como interagir com elementos para click, atribuição de valores e busca de valores
+
+Modulo 3:
+
+1. Como fazer a verificação de transição de telas
+2. Problemas de sessão dentro do Appium
+3. Garantindo uma única instância de um elemento
+4. Padrão de projeto Singleton
+5. Utilizando o driver para navegar pelas Features
+6. Pensando no estado inicial e final de um teste
