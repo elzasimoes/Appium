@@ -30,3 +30,10 @@ Modulo 4:
 4. Vantagens de utilizar um PageObject
 5. Problemas para buscar elementos
 6. Código declarativo X imperativo
+
+Modulo 5:
+
+1. Boas práticas na hora de fazer uma transição de tela com Page Objects
+2. Como esperar elementos que demoram para aparecer
+3. Objetos do tipo By e como utilizá-lo para melhorar nosso código
+4. Organizando melhor o código facilitando a manutenção
