@@ -21,3 +21,12 @@ Modulo 3:
 4. Padrão de projeto Singleton
 5. Utilizando o driver para navegar pelas Features
 6. Pensando no estado inicial e final de um teste
+
+Modulo 4:
+
+1. Diferença entre testes de caixa-preta e testes de caixa-branca
+2. Pirâmide de testes
+3. Como tirar a duplicação de código dos testes
+4. Vantagens de utilizar um PageObject
+5. Problemas para buscar elementos
+6. Código declarativo X imperativo
